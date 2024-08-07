@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffacc7;
+}
+h3 {
+    font-size: 50px;
+    color: aqua;
+    text-shadow: 2px 2px 5px black;
+}
+ul {
+    font-size: 21px;
+    color: blueviolet;
+}
+
+ul a{
+    color: rgb(105, 44, 248);
+}
+.Ct {
+    color: darkorange;
+}
+.Graduated{
+    color: deeppink;
+}
+.Skill{
+    color: #34ca9d;
+}
+h1,h2{
+    font-size: 26px;
+    text-transform: uppercase;
+    text-shadow: 2px 1px 4px rgb(255, 255, 255);
+}
